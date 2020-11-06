@@ -1,2 +1,2 @@
 # Digital-Clock
-Edmonton Zone Time
+Vancouver Zone Time
